@@ -9,4 +9,4 @@ I've also worked on `data preprocessing` using Pandas, manipulating from it's ra
 
 **I'm actively looking for a job opportunity as a Data Scientist**
 ## Happy to meet you 🤩
-[<img src='./linkedin.png' height=20/>](https://www.linkedin.com/in/parth-lathiya/) [<img src='./kaggle.png' height=20/>](https://www.kaggle.com/plathiya) [<img src='./mail.png' height=20/>](plathiya2611@gmail.com) [<img src='./whatsapp.png' height=20/>]()
+[<img src='./linkedin.png' height=20/>](https://www.linkedin.com/in/parthlathiya42) [<img src='./kaggle.png' height=20/>](https://www.kaggle.com/parthlathiya42) [<img src='./mail.png' height=20/>](plathiya2611@gmail.com) [<img src='./whatsapp.png' height=20/>]()
