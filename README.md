@@ -3,9 +3,9 @@
 I'm an aspiring data scientist having 8-9 months of experience working on `complex data sets, finding patterns, co-relations, typos, handling missing values/outliers, etc .` by applying different filters with 
 tools such as pandas, numpy, matplotlib, seaborn, etc.
 
-I've worked with **finance sector** and **oil & gas sectors** by applying `Machine Learning Algorithms`(by sklearn) and `Statistical Methods` with some `Image Manipulation techniques`(sobel) provided by OpenCV.
+I've worked with **Networking sector** and **Petroleum sector** by applying `Machine Learning Algorithms`, `Statistical Methods` and `Insightful Visualisations` along with `Image Processing`.
 
-I've also worked on `data preprocessing` using Pandas, manipulating from it's raw untidy form into tidy data using pandas library.
+I'm can perform Feature Engineering and Feature Selection on data while preforming predictive modeling to avoid Dimentionality problems and Model confusion. I also know which Machine Learning Algorithms(currently known to me) to apply to which kind of data so that we can get the best benifit instead of just trying out all the models and picking up the best one. I have also performed Model Tuning and can choose apt Evaluation Metric for different business problems.
 
 **I'm actively looking for a job opportunity as a Data Scientist**
 ## Happy to meet you 🤩
