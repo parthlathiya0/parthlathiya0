@@ -10,7 +10,7 @@ I'm can also perform `Feature Engineering` and `Feature Selection` on data while
 **EXPERIENCE 🏋**
 - DATA SCIENCE 
   - Data science related end to end cleaning, engineering, selecting, modelling, evaluating and redesigning for better precision and recall.
-  - Anamoly detection in industrial applications like petroleum industry, diamond industry, rest comming up...
+  - Anomaly detection in industrial applications like petroleum industry, diamond industry, rest comming up...
   - Basic NLP (Natural language processing).
 
 - AI
