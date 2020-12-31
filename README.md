@@ -7,7 +7,7 @@ I've worked with **Networking sector** and **Petroleum sector** by applying `Mac
 
 I'm can also perform `Feature Engineering` and `Feature Selection` on data while preforming `predictive modeling` to avoid Dimentionality problems and avoid Model confusion. I also know which Machine Learning Algorithms(currently known to me) to apply to which kind of data so that we can get the best benefit instead of just trying out all the models and picking up the best one. I have also performed `Model Tuning` and can choose apt `Evaluation Metric` for different business problems.
 
-Skills 🏋
+**EXPERIENCE 🏋**
 - DATA SCIENCE 
   - Data science related end to end cleaning, engineering, selecting, modelling, evaluating and redesigning for better precision and recall.
   - Anamoly detection in industrial applications like petroleum industry, diamond industry, rest comming up...
