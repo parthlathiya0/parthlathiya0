@@ -1,26 +1,32 @@
-### Hi there 👋
+# Hi there! 👋
 
-I'm an aspiring data scientist having 8-9 months of experience working on `complex data sets, finding patterns, co-relations, typos, handling missing values/outliers, etc .` by applying different filters with 
-tools such as pandas, numpy, matplotlib, seaborn, etc.
+### 🧙‍♂️ Welcome to my GitHub! 🧙‍♂️
 
-I've worked with **Networking sector** and **Petroleum sector** by applying `Machine Learning Algorithms`, `Statistical Methods` and `Insightful Visualisations` along with some `Image Processing` stuff.
+I'm an ambitious **Data Scientist and AI/ML Team Lead** with **over 6 years of experience** in delivering innovative solutions and consultancy for cutting-edge technologies. My expertise lies in a wide range of domains, including **Natural Language Processing (NLP)** and **Image Generation** with state-of-the-art models like GPT-3's DaVinci, Curie, Babbage, Ada, and more. 🌟
 
-I'm can also perform `Feature Engineering` and `Feature Selection` on data while preforming `predictive modeling` to avoid Dimentionality problems and avoid Model confusion. I also know which Machine Learning Algorithms(currently known to me) to apply to which kind of data so that we can get the best benefit instead of just trying out all the models and picking up the best one. I have also performed `Model Tuning` and can choose apt `Evaluation Metric` for different business problems.
+## 👨‍💻 Technical Proficiencies:
 
-**EXPERIENCE 🏋**
-- DATA SCIENCE 
-  - Data science related end to end cleaning, engineering, selecting, modelling, evaluating and redesigning for better precision and recall.
-  - Anomaly detection in industrial applications like petroleum industry, diamond industry, rest comming up...
-  - Basic NLP (Natural language processing).
+- **Python Expertise**: Proficient in Python with a focus on automation and FastAPI backend development. 🐍
+- **Machine Learning & Deep Learning**: Passionate about large language models and experienced in supervised and unsupervised learning, time series analysis, and natural language processing. 🧠
+- **Text Generation**: Extensive experience in zero-shot, one-shot, few shots, and custom task model fine-tuning using OpenAI-GPT. 📝
+- **Image Generation**: Skilled in Stable Diffusion techniques for quality prompt generation, fine-tuning models, inpainting, outpainting, and enhancement. 🎨
+- **Integration**: Successful integration of ChatGPT with custom datasets and real-time results via Google. 📊
+- **Frontend Development**: Intermediate expertise in ReactJS, allowing me to offer complete end-to-end solutions. 🌐
+- **DevOps & Cloud Deployment**: Practical knowledge in DevOps, including cloud deployment with AWS and managing simple database systems. 💼
 
-- AI
-  - Computer Vision projects specifically object detection and tracking in real time on client side(browser) as well as on server side with camera integration. Integrated this services at a poultry farm and one integrating a real time intelliget survellience AI at public place.
-  - Experience in Data Selection, Modelling and improving performance.
-  - Using the most accurate data, tools and architectures.
-  
-`Reach out if you have an application in mind. Any field is suitable 👍🏻`
+## 🏆 Projects and Achievements:
 
+- Developed scalable APIs for Stable Diffusion Image Generation, enhancing mobile applications and back-end infrastructure for a tech startup. 📱
+- Delivered successful consultancy and developments for advanced NLP models in the finance sector and oil & gas industries.
+- Implemented supervised and unsupervised learning algorithms for driving business solutions, including regression, SVM, K-means, and hierarchical clustering.
+- Leveraged Computer Vision to deploy real-time intelligent surveillance AI in public places and integrate object detection and tracking on both client and server sides. 
 
-**I'm actively working as a Jr. Data Scientist working on Computer Vision AI Projects**
-## Looking forward to collaborate on intesting Ideas 🤩
-[<img src='./linkedin.png' height=20/>](https://www.linkedin.com/in/parthlathiya42) [<img src='./kaggle.png' height=20/>](https://www.kaggle.com/parthlathiya42) [<img src='./mail.png' height=20/>](plathiya2611@gmail.com) [<img src='./whatsapp.png' height=20/>]()
+## 🌱 Passion and Focus:
+
+My current passion lies in combining Natural Language Processing with Image Generative Models, where I am proficient 🎯 in providing complete end-to-end solutions, from conceptualization to deployment.
+
+## 📫 Reach out to me:
+
+I'm actively seeking exciting collaborations and challenging projects. Feel free to reach out to me for any application or idea you have in mind. Any field is suitable! 👍🏻
+
+📧 [Email](mailto:your.email@example.com) | 📞 [WhatsApp](https://wa.me/yourphonenumber) | [<img src="linkedin.png" height="20">](https://www.linkedin.com/in/yourprofile) | [<img src="kaggle.png" height="20">](https://www.kaggle.com/yourprofile)
